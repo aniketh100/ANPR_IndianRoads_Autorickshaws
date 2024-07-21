@@ -1,0 +1,1 @@
+python detect5.py --source best3.mp4 --weights b20.pt --conf 0.2
